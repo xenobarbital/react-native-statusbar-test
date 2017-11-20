@@ -19,7 +19,7 @@ class App extends Component {
   render() {
     return (
       <View style={styles.container}>
-        <MyStatusBar backgroundColor="#5E8D48" barStyle="light-content" />
+        <MyStatusBar backgroundColor="#79B45D" barStyle="light-content" />
         <View style={styles.appBar} />
         <View style={styles.content} />
       </View>
